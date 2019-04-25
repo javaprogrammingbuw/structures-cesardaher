@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class EvenOdd {
 
 	public static void main(String[] args) {
+		System.out.println("Please enter a value:");
 		Scanner scan = new Scanner(System.in);
 
 		int x = 0;
