@@ -24,14 +24,6 @@ public class EvenOdd {
 		}while(x <= y);
 
 
-
-		/*while (x % 2 == 0 && x < y){
-			System.out.println(x);
-			x++;
-		
-
-		}*/
-
 		//todo: The program takes a number as input.
 		//It then goes through all integer values till reaching that value and prints all the odd ones.
 		
